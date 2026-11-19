@@ -1,0 +1,15 @@
+{
+  "extraKnownMarketplaces": {
+    "chrome-devtools-plugins": {
+      "source": {
+        "source": "github",
+        "repo": "ChromeDevTools/chrome-devtools-mcp"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "chrome-devtools-mcp@chrome-devtools-plugins": true,
+    "playwright@claude-plugins-official": true,
+    "claude-code-setup@claude-plugins-official": true
+  }
+}
